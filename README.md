@@ -10,8 +10,7 @@
 - **Need Help With:** 🤔 ...
 - **Ask Me About:** 💬 ...
 - **Reach Me:** 📫 [N/A](https://i.chzbgr.com/full/6070987520/hBA2B033B/soon)
-- **Fun Fact:** 🥋 2nd Kyu Karateka, love playing games,
-- listening to music, watching movies/anime and reading manga.
+- **Fun Fact:** 🥋 2nd Kyu Karateka, love playing games,<br> listening to music, watching movies/anime and reading manga.
 
 **Learning:**
 - **Spoken Languages:** 🗪 Japanese
