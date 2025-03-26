@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./assets/README.css" />
-
 <h1 align="center">Hi there, I'm @nexd3v</h1>
 
 <p>
@@ -36,31 +34,14 @@ Through this journey, I hope to not only acquire<br> technical skills but also f
 <h2 align="center">Currently Learning</h2>
 
 <p align="center">
-  <a href="https://www.w3schools.com/html/default.asp" title="HTML">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://www.w3schools.com/css/default.asp" title="CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://www.w3schools.com/js/default.asp" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
+  <a href="https://www.w3schools.com/" title="HTML, CSS, JavaScript">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
-
-<div align="center" style="display:block; width:100%;">
-  <div style="width:50%; float: left; display: inline-block;">
-    <h3 align="center">Projects</h3>
+<h3 align="center">Projects</h3>
     <p align="center">
-      <a style="font-size:18px" href="https://i.chzbgr.com/full/6070987520/hBA2B033B/soon">󰖟 Personal Website</a></br>
+        <a href="https://i.chzbgr.com/full/6070987520/hBA2B033B/soon">Personal Website</a></br>
     </p>
-  </div>
-  <div style="width:50%; float: left; display: inline-block;">
-    <h3 align="center">Socials</h3>
-    <p align="center">
-      <a style="font-size:18px" href="https://x.com/_nexd3v"> Twitter</a></br>
-    </p>
-  </div>
-</div>
 
 <!---
 nexd3v/nexd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
