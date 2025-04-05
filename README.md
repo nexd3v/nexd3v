@@ -4,6 +4,10 @@
   <img src="./assets/nexd3v_elf.png">
 </p>
 
+<div align="center">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/nexd3v">
+</div>
+
 <h3 align="center">Introduction to My Programming Journey</h3>
 <p align="center">
 As a hobby enthusiast, I have always been fascinated by the world of programming.<br> My journey began with a simple yet profound interest in understanding how technology works,<br> and I have since developed a passion for learning programming skills for fun.<br> My ultimate goal is to build websites, read and discern code,<br> and potentially create web applications or even develop a game in the future.</p>
