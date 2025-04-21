@@ -44,7 +44,7 @@ Through this journey, I hope to not only acquire technical skills <br>but also f
 </p>
 <h3 align="center">Projects</h3>
     <p align="center">
-        <a href="https://i.chzbgr.com/full/6070987520/hBA2B033B/soon">Personal Website</a></br>
+        <a href="https://nexd3v.it/">Personal Website</a></br>
     </p>
 
 <!---
