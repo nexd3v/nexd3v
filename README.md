@@ -30,7 +30,7 @@ Through this journey, I hope to not only acquire technical skills <br>but also f
 <p align="center">
    🗫 I speak Norwegian & English</br>
    🎌 I am currently learning Japanese</br>
-   🥋 2. Kyu in Shotokan Karate</br>
+   🥋 2. Kyu in JKA Shotokan Karate</br>
    😍 Gaming, Music, Anime, Manga</br>
    🛠️ Love to tinker with Minecraft modpacks
 </p>
