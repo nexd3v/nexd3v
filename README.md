@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm @nexd3v</h1>
 
 <p>
-  <img src="./assets/nexd3v_elf.png">
+  <img src="./assets/nexd3v_astarte.png">
 </p>
 
 <div align="center">
