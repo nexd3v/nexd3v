@@ -46,10 +46,3 @@ Through this journey, I hope to not only acquire technical skills <br>but also f
     <p align="center">
         <a href="https://nexd3v.it/">Personal Website</a></br>
     </p>
-
-<!---
-nexd3v/nexd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-> > > > > > > 589962ecf59786ba0e790d4873662b048ebb4306
